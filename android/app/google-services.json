@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "316219989410",
+    "firebase_url": "https://herasa10-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "herasa10",
+    "storage_bucket": "herasa10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316219989410:android:0694a5ed2ec6b0ae0d26fb",
+        "android_client_info": {
+          "package_name": "com.example.employee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuwiBKshG4ItqogK3nE-tszEDDQ4zHTbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
