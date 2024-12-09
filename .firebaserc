@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "herasa10"
-  }
+    "default": "herasa10",
+    "n": "herasa10"
+  },
+  "targets": {},
+  "etags": {}
 }
